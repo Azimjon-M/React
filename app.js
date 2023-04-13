@@ -1,3 +1,4 @@
+import React from 'react';
 import { Component } from 'react';
 import KinolarSoni from "./components/kinolar-soni/kinolar-soni"; 
 import QidirPanel from "./components/qidirish-panili/qidirish-panili";
