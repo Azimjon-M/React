@@ -1,0 +1,8 @@
+.div-1 {
+    margin: 10px;
+    border: 1px solid black;
+    z-index: 99;
+}
+.btn-star {
+    transition: visibility 0s opacity 1s linear;
+}

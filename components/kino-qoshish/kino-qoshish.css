@@ -1,0 +1,8 @@
+.kino-qoshish {
+    margin: 10px 50px;
+    padding: 20px;
+    box-shadow: 0 10px 20px 10px rgba(0, 0, 0, 0.15);
+}
+.style-w {
+    min-width: 5em !important;
+}
